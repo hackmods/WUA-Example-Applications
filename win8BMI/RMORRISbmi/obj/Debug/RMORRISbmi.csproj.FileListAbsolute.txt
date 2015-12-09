@@ -1,0 +1,64 @@
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\bin\Debug\App.xbf
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\bin\Debug\MainPage.xbf
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\bin\Debug\RMORRISbmi.xr.xml
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\bin\Debug\RMORRISbmi.exe
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\bin\Debug\RMORRISbmi.pdb
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\bin\Debug\resources.pri
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\bin\Debug\AppxManifest.xml
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\bin\Debug\RMORRISbmi.build.appxrecipe
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\obj\Debug\App.g.i.cs
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\obj\Debug\App.g.cs
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\obj\Debug\MainPage.g.i.cs
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\obj\Debug\MainPage.g.cs
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\obj\Debug\XamlTypeInfo.g.cs
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\obj\Debug\App.xaml
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\obj\Debug\MainPage.xaml
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\obj\Debug\App.xbf
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\obj\Debug\MainPage.xbf
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\obj\Debug\XamlSaveStateFile.xml
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\obj\Debug\RMORRISbmi.exe
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\obj\Debug\RMORRISbmi.pdb
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\obj\Debug\priconfig.xml
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\obj\Debug\priconfig.xml.intermediate
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\obj\Debug\layout.resfiles
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\obj\Debug\layout.resfiles.intermediate
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\obj\Debug\resources.resfiles
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\obj\Debug\resources.resfiles.intermediate
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\obj\Debug\pri.resfiles
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\obj\Debug\pri.resfiles.intermediate
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\obj\Debug\qualifiers.txt
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\obj\Debug\qualifiers.txt.intermediate
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\PROG1698 Windows\RMORRISbmi\RMORRISbmi\obj\Debug\ProjectArchitectures.txt
+H:\RMORRISbmi\RMORRISbmi\bin\Debug\App.xbf
+H:\RMORRISbmi\RMORRISbmi\bin\Debug\MainPage.xbf
+H:\RMORRISbmi\RMORRISbmi\bin\Debug\RMORRISbmi.xr.xml
+H:\RMORRISbmi\RMORRISbmi\bin\Debug\RMORRISbmi.exe
+H:\RMORRISbmi\RMORRISbmi\bin\Debug\RMORRISbmi.pdb
+H:\RMORRISbmi\RMORRISbmi\bin\Debug\resources.pri
+H:\RMORRISbmi\RMORRISbmi\bin\Debug\AppxManifest.xml
+H:\RMORRISbmi\RMORRISbmi\bin\Debug\RMORRISbmi.build.appxrecipe
+H:\RMORRISbmi\RMORRISbmi\obj\Debug\App.g.i.cs
+H:\RMORRISbmi\RMORRISbmi\obj\Debug\App.g.cs
+H:\RMORRISbmi\RMORRISbmi\obj\Debug\MainPage.g.i.cs
+H:\RMORRISbmi\RMORRISbmi\obj\Debug\MainPage.g.cs
+H:\RMORRISbmi\RMORRISbmi\obj\Debug\XamlTypeInfo.g.cs
+H:\RMORRISbmi\RMORRISbmi\obj\Debug\App.xaml
+H:\RMORRISbmi\RMORRISbmi\obj\Debug\MainPage.xaml
+H:\RMORRISbmi\RMORRISbmi\obj\Debug\App.xbf
+H:\RMORRISbmi\RMORRISbmi\obj\Debug\MainPage.xbf
+H:\RMORRISbmi\RMORRISbmi\obj\Debug\XamlSaveStateFile.xml
+H:\RMORRISbmi\RMORRISbmi\obj\Debug\RMORRISbmi.exe
+H:\RMORRISbmi\RMORRISbmi\obj\Debug\RMORRISbmi.pdb
+H:\RMORRISbmi\RMORRISbmi\obj\Debug\priconfig.xml
+H:\RMORRISbmi\RMORRISbmi\obj\Debug\priconfig.xml.intermediate
+H:\RMORRISbmi\RMORRISbmi\obj\Debug\layout.resfiles
+H:\RMORRISbmi\RMORRISbmi\obj\Debug\layout.resfiles.intermediate
+H:\RMORRISbmi\RMORRISbmi\obj\Debug\resources.resfiles
+H:\RMORRISbmi\RMORRISbmi\obj\Debug\resources.resfiles.intermediate
+H:\RMORRISbmi\RMORRISbmi\obj\Debug\pri.resfiles
+H:\RMORRISbmi\RMORRISbmi\obj\Debug\pri.resfiles.intermediate
+H:\RMORRISbmi\RMORRISbmi\obj\Debug\qualifiers.txt
+H:\RMORRISbmi\RMORRISbmi\obj\Debug\qualifiers.txt.intermediate
+H:\RMORRISbmi\RMORRISbmi\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+H:\RMORRISbmi\RMORRISbmi\obj\Debug\ProjectArchitectures.txt

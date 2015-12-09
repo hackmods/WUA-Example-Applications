@@ -1,0 +1,9 @@
+﻿<Application
+    x:Class="RMORRIS4Lab2BMI.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:RMORRIS4Lab2BMI"
+    RequestedTheme="Light">
+
+</Application>
+
